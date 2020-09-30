@@ -1,2 +1,2 @@
 # STORY
-MY STORY
+MY STORY is related to me
